@@ -13,6 +13,7 @@
    <img alt="html5" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img alt="css" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="cpp" height="45" width="45" style="margin-right: 10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+    <i class="fa-brands fa-js" style="color: #FFD43B;"></i>
             
   <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Priyanshuu-u&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
