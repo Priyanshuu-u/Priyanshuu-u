@@ -1,7 +1,7 @@
 # Hello and Welcome, I'm Priyanshu 
 ### Who am I?
--🌱 I’m currently learning: C++ programming <br>
--👯 I’m looking to collaborate on: Projects involving C/C++ language and Python would also be fine<br>
+-🌱 I’m currently learning: DSA in C++  and Full Stack Development <br>
+-👯 I’m looking to collaborate on: Projects involving C/C++ language and Full Stack development<br>
 -🎓 Undergrad: B.Tech in Computer Science and Engineering from Jaipur Engineering College and Research Centre<br>
 -😄 Pronouns: He/Him<br>
 -⚡ Fun fact: Fluent in 2 languages and love music<br>
