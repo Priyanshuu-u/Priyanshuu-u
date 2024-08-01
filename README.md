@@ -34,6 +34,13 @@
 <a href="https://www.w3schools.com/html/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="git" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="git" height="40" width="40" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="git" height="40" width="40" /></a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original-wordmark.svg" alt="git" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodemon/nodemon-original.svg" alt="git" height="40" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/express/express-original-wordmark.svg" alt="git" height="40" width="40" />
+
+
+
+
 
 
 
