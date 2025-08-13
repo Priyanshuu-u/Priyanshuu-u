@@ -9,7 +9,7 @@
 
 - 🌱 My skills include **C, C++, DSA, DBMS, OS,  Web-Development(MERN), Python**
 
-- 💬 Ask me about DSA and Web Dev
+- 💬 I am also Github Foundations Certified
 
 - 📫 How to reach me on <a href = "https://www.linkedin.com/in/priyanshurajpurohit/" target = "_blank"><b>LinkedIn<b></a>
 
